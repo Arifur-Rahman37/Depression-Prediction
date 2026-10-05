@@ -1,0 +1,16 @@
+AGERNG,GENDER,EDU,PROF,MARSTS,RESDPL,LIVWTH,PHYEX,AVGSLP,TSSN,WRKPRE,ENVSAT,POSSAT,FINSTR,DEBT,SMOKE,DRINK,ILLNESS,PREMED,EATDIS,INSOM,ANXI,DEPRI,ABUSED,CHEAT,THREAT,SUICIDE,INFER,CONFLICT,LOST,DEPRESSED
+21-25,Male,Graduate,Service Holder,Unmarried,Village,With Family,Regularly,More than 8 hours,More than 10 hours a day,No Pressure,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,1
+21-25,Male,Post Graduate,Student,Married,Town,Without Family,Never,More than 8 hours,8-10 hours a day,No Pressure,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,0
+36-40,Male,HSC,Service Holder,Unmarried,Town,Without Family,Sometimes,More than 8 hours,More than 10 hours a day,Mild,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,1
+61+,Female,Graduate,Service Holder,Unmarried,City,Without Family,Never,Below 5 hours,Less than 2 hours,Mild,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,0
+36-40,Male,HSC,Business,Unmarried,City,With Family,Regularly,6 hours,8-10 hours a day,No Pressure,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1
+41-45,Female,Post Graduate,Student,Unmarried,Village,With Family,Sometimes,Below 5 hours,More than 10 hours a day,Mild,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,0
+21-25,Female,Graduate,Unemployed,Married,Town,With Family,Regularly,More than 8 hours,Less than 2 hours,No Pressure,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,0
+26-30,Female,Post Graduate,Unemployed,Unmarried,Town,With Family,Never,7 hours,Less than 2 hours,Severe,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,0
+61+,Male,HSC,Unemployed,Unmarried,City,With Family,Regularly,8 hours,Less than 2 hours,No Pressure,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,0
+41-45,Male,HSC,Business,Married,Village,Without Family,Regularly,More than 8 hours,5-7 hours a day,No Pressure,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,0
+16-20,Female,HSC,Business,Unmarried,City,Without Family,Regularly,More than 8 hours,8-10 hours a day,No Pressure,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,0
+26-30,Male,Post Graduate,Student,Unmarried,City,Without Family,Sometimes,More than 8 hours,2-4 hours a day,Moderate,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1
+56-60,Female,Graduate,Student,Unmarried,Town,With Family,Regularly,6 hours,Less than 2 hours,No Pressure,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,1
+46-50,Female,Post Graduate,Business,Unmarried,Village,Without Family,Regularly,7 hours,2-4 hours a day,Moderate,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,0
+31-35,Male,SSC,Student,Unmarried,Town,With Family,Sometimes,7 hours,More than 10 hours a day,Mild,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,1
